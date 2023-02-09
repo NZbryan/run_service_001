@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: "x5mgvb41j@mail.yitun.net"
-    password: "HyVmv30l"
+  - email:
+    password:
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
-openAIProxy: ""
+openAIProxy: "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"
